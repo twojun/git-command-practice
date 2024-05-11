@@ -1,4 +1,4 @@
 package com.example.gitcommandpractice;
 
-public class Test5 {
+public class Test6 {
 }
