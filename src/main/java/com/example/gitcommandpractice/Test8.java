@@ -1,2 +1,4 @@
-package com.example.gitcommandpractice;public class Test8 {
+package com.example.gitcommandpractice;
+
+public class Test8 {
 }
